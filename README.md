@@ -1,16 +1,15 @@
 - 👋 Hi, I’m Akshay Satish
 - 👀 I’m interested in Data Science and everything around it
-- 🌱 I’m currently learning MLOps
-- 📫 Reach me at akshaysatish1998@gmail.com
+- 🌱 I’m currently learning MLOps 
 
 # Resume and Certificates
-📃 [Resume](https://drive.google.com/file/d/1RLCpFa8FVKB_7mvOaMQIAxQ_RAMhg2pY/view?usp=sharing)
-📃 [Certifications](https://drive.google.com/drive/folders/1BCIJMKcwzLEfXKqdh3-X0Vez-6GYGz6N?usp=sharing)
+📃 [Resume]()
+📃 [Certifications]()
 
 
 ## Reach me at: 
-- Email: hemantrak05@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hemantr05/
+- Email: akshaysatish1998@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akshay-satish/
 
 <!--
 **Portfolio & Articles:**
