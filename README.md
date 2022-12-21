@@ -2,10 +2,11 @@
 - 👀 I’m interested in Data Science and everything around it
 - 🌱 I’m currently learning MLOps 
 
+<!--
 # Resume and Certificates
 📃 [Resume]()
 📃 [Certifications]()
-
+-->
 
 ## Reach me at: 
 - Email: akshaysatish1998@gmail.com
