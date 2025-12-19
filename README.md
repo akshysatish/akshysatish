@@ -13,7 +13,7 @@
 - LinkedIn: https://www.linkedin.com/in/akshay-satish/
 
 **Portfolio & Articles:**
-- Portolio: https://akshysatish.github.io/Portfolio/
+- Portolio: https://akshysatish.github.io/
 
 
 ## 🧰 Languages and Tools:
